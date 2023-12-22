@@ -1,6 +1,6 @@
 # LiverDisease_Detection_YOLOv8
 
-![Yolov8n-results][https://github.com/Alisoltan82/LiverDisease_Detection_YOLOv8/blob/main/IMG_0929.jpg]
+![Yolov8n-results](https://github.com/Alisoltan82/LiverDisease_Detection_YOLOv8/blob/main/IMG_0929.jpg)
 [dataset](https://universe.roboflow.com/roboflow-100/liver-disease)
 
 This dataset was originally created by Abhishek Dada. To see the current project, which may have been updated since this version, please go here: https://universe.roboflow.com/liver-t5yvf/liver-diseases.
