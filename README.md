@@ -11,6 +11,6 @@ Access the RF100 Github repo: https://github.com/roboflow-ai/roboflow-100-benchm
 ## Further recommended experiments:
   1. Images preprocessing
   2. further epochs
-  3. further model optimization for yolo8vn (yolo8vn , yolo8vm delivered comparable results for 50 epochs)
+  3. further model optimization for yolo8vn (yolo8vn , yolo8vm delivered comparable mAP50% results for 50 epochs)
 
 ![Yolov8n-results](https://github.com/Alisoltan82/LiverDisease_Detection_YOLOv8/blob/main/IMG_0929.jpg)
