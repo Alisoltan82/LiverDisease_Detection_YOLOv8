@@ -8,3 +8,8 @@ This dataset was originally created by Abhishek Dada. To see the current project
 This dataset is part of RF100, an Intel-sponsored initiative to create a new object detection benchmark for model generalizability.
 
 Access the RF100 Github repo: https://github.com/roboflow-ai/roboflow-100-benchmark
+
+## Further recommended experiments:
+  1. Images preprocessing
+  2. further epochs
+  3. further model optimization for yolo8vn (yolo8vn , yolo8vm delivered comparable results for 50 epochs)
